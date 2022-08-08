@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zyinix. 29 years old. From Göteborg, Sweden.  
-- 👀 I’m interested in learning programmin and everything that follows. 
+- 👀 I’m interested in learning programming and everything that follows. 
 - 🌱 I’m currently learning python, and everything else that programming has to offer.
 - 💞️ I’m looking to collaborate on EASY projects since I am a beginner still. I only code when I have sparetime for it. I am a father of 2 which makes my sparetime
 scarce. 
